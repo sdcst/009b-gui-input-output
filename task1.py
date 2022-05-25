@@ -1,8 +1,9 @@
 """
 ##### Task 1
-Create a "Madlib" that has the users enter in a variety of noun/verb/adjectives.
-When they press a button, it should update the contents of a label to display
-the completed madlib.
-What is a madlib? Visit https://www.madlibs.com/printables/ to see some Madlibs
-you might use in your assignment
+Create entry widets to allow user to enter their:
+* name
+* student number
+* grade
+
+Create a button so that when they click on the button, it states all of the information in a 4th entry widget
 """
