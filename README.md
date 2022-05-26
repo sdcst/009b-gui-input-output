@@ -25,25 +25,17 @@ methods to help us update the contents of an Entry widget.
 ### 3 Tasks (8 points)
 
 ##### Task 1 (4 points)
-Create a "Madlib" that has the users enter in a variety of noun/verb/adjectives.
-When they press a button, it should update the contents of a label to display
-the completed madlib.
-What is a madlib? Visit https://www.madlibs.com/printables/ to see some Madlibs
-you might use in your assignment
+Create entry widets to allow user to enter their:
+* name
+* student number
+* grade
+Create a button so that when they click on the button, it states all of the information in a 4th entry widget
 
 
 ##### Task 2
-Factoring simple trinomials
-Create a user interface using tkinter.
-There should be a label indicating instructions for what the user needs to do.
-The program will factor a trinomial of the type ax^2 + bx + c, where a, b and c
-are coefficients.  For the purposes of this program, a will always be 1.
-The user should enter in coefficients for b and c.  Note that if you are factoring
-a trinomial of the type ax^2 - bx + c, then b is just a negative number.
-There should be a button to factor the trinomial
-The program should display the factored form in an Entry widget.
-
-Extension: make the + between a,b and b,c buttons that will toggle
-between + and -.
+Create a window with 3 entry widgets and 1 button.
+The first 2 entry widgets allow the user to enter in the 2 short sides of a right triangle.
+When the button is clicked, calculate the length of the hypotenuse and display it in the 3rd entry widget.
+Any labels you need for instruction are optional.
 (4 points) 
 
